@@ -1,0 +1,35 @@
+.btn-primary {
+  background-color: #ff851b;
+  border-color: #ff851b;
+}
+
+.btn-primary:focus {
+  background-color: #ff851b;
+  border-color: #ff851b;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+  background-color: #ff851b;
+  border-color: #ff851b;
+}
+
+.btn-primary:hover {
+  background-color: #ff851b;
+  border-color: #ff851b;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active,
+.sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+  background-color: #ff851b;
+}
+
+[class*="sidebar-dark-"] .sidebar a {
+  color: #fff;
+}
+
+/* .login-page,
+.register-page {
+  background-color: #28a745;
+} */
